@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Bhargav%20Baranda&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Threat%20Intelligence&descSize=18&descAlignY=58&descColor=00d4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Bhargav%20Baranda&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20AI%20Security%20Builder&descSize=18&descAlignY=58&descColor=00d4ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;89+cybersecurity+videos+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;7+labs+documented.+89+videos+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Built+a+live+AI+security+product.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,11 +15,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-baranda)
 [![YouTube](https://img.shields.io/badge/YouTube-Granger_Security-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Granger-Security)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Security_Operations-2D9CDB?style=flat-square&logo=github&logoColor=white)](https://github.com/Granger0007/Bhargav-Baranda-Portfolio)
+[![OZONE Shield](https://img.shields.io/badge/Product-OZONE_Shield_🛡️-00d4ff?style=flat-square)](https://ozone-shield.netlify.app)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bbaranda055@gmail.com)
 
 </div>
 
----
+
 
 ## About Me
 
@@ -40,12 +41,13 @@ current_focus:
   - Splunk SPL + Microsoft Sentinel KQL + Sigma rule development
   - MITRE ATT&CK at sub-technique level across all investigations
   - ARM64 home lab — purpose-built, fully documented, publicly available
+  - OZONE Security — building AI-powered consumer threat protection tools
 
 seeking:      SOC Analyst roles across the UK market
 available:    Immediately
 ```
 
----
+
 
 ## Home Lab
 
@@ -63,18 +65,33 @@ MacBook Pro — Apple Silicon (ARM64)
         └── Infrastructure  →  Docker containers — £0 cloud spend
 ```
 
----
+
 
 ## What I Build
 
 Everything I work on is documented and published. No private repos, no course certificates without proof of work.
 
-| Repository | What's Inside | Status |
-|---|---|:---:|
-| [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | Incident investigations · Detection rules (Sigma / SPL / KQL) · Lab documentation | 🟢 Active |
-| [Granger Security — YouTube](https://github.com/Granger0007/granger-security-youtube) | CVE research · Video scripts · Threat intelligence writeups | 🟢 Active |
+| | Repository | What's Inside | Status |
+|:-:|---|---|:---:|
+| 🔐 | [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | 7 labs · Incident investigations · Detection rules (Sigma / SPL / KQL) · ARM64 lab documentation | 🟢 Active |
+| 📺 | [Granger Security — YouTube](https://github.com/Granger0007/granger-security-youtube) | CVE research · Video scripts · Threat intelligence writeups | 🟢 Active |
+| 🛡️ | [OZONE Shield](https://github.com/Granger0007/ozone-shield) | Live AI scam detector — paste any message, get an instant verdict · Claude AI · Netlify serverless · Production secured | 🟢 Live |
 
----
+
+
+## OZONE Shield — Live Product
+
+> Over 3.4 billion phishing messages are sent every day. Most people have no fast, simple way to check if a message is genuine.
+
+OZONE Shield solves this: paste any suspicious email, SMS, WhatsApp, or letter and receive an instant AI-powered verdict — **SAFE**, **SUSPICIOUS**, or **SCAM** — with a confidence score, specific reasons tied to the actual message, and a plain-English action guide.
+
+No account. No download. Works on any device.
+
+[![Try OZONE Shield](https://img.shields.io/badge/▶_Try_It-ozone--shield.netlify.app-00d4ff?style=for-the-badge)](https://ozone-shield.netlify.app)
+
+**Under the hood:** Claude AI (Anthropic API) · Netlify serverless functions · Rate limiting · CORS · CSP headers · API key isolation · Input sanitisation · Production-grade from day one.
+
+
 
 ## Technical Skills
 
@@ -85,9 +102,10 @@ Everything I work on is documented and published. No private repos, no course ce
 | **Threat Intelligence** | MITRE ATT&CK (sub-technique) · CISA KEV · NCSC advisories · IOC enrichment (GreyNoise, OTX) |
 | **Incident Response** | Timeline reconstruction · Root cause analysis · GDPR Article 33 / ICO 72hr assessment |
 | **Network Analysis** | Wireshark · tcpdump · Suricata IDS · TCP/IP · DNS enumeration · Packet analysis |
+| **Product Development** | Anthropic API · Claude AI · Netlify serverless · Node.js · Security hardening · System prompt engineering |
 | **Frameworks** | MITRE ATT&CK · NIST CSF · Cyber Kill Chain |
 
----
+
 
 ## Granger Security — YouTube
 
@@ -102,7 +120,7 @@ Everything I work on is documented and published. No private repos, no course ce
 | 🔵 Lab Walkthroughs | Real detections, real tool output, real mistakes — no polish |
 | ⚪ Security+ Explained | Exam concepts anchored to real SOC scenarios |
 
----
+
 
 ## 2026 Roadmap
 
@@ -110,6 +128,7 @@ Everything I work on is documented and published. No private repos, no course ce
 Q1 2026
  ├── ✅  MSc Information Security — Royal Holloway
  ├── ✅  ISC² Certified in Cybersecurity (CC)
+ ├── ✅  OZONE Shield — live AI scam detector (ozone-shield.netlify.app)
  ├── 🔄  CompTIA Security+ SY0-701
  └── 🔄  Security operations portfolio — active build
 
@@ -121,10 +140,10 @@ Q2 2026
 Q3 2026
  ├── 🎯  Splunk Power User
  ├── 🎯  Open-source Sigma contributions
- └── 🎯  OZONE Security — AI threat detection MVP
+ └── 🎯  OZONE Security — expand beyond scam detection
 ```
 
----
+
 
 ## Let's Connect
 
@@ -137,11 +156,12 @@ If you're hiring, collaborating, or want to talk threat detection — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-baranda)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Granger-Security)
+[![OZONE Shield](https://img.shields.io/badge/Product-OZONE_Shield-00d4ff?style=for-the-badge)](https://ozone-shield.netlify.app)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbaranda055@gmail.com)
 
 </div>
 
----
+
 
 <div align="center">
 
