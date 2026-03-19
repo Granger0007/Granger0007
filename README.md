@@ -75,7 +75,7 @@ Everything I work on is documented and published. No private repos, no course ce
 |:-:|---|---|:---:|
 | 🔐 | [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | 7 labs · Incident investigations · Detection rules (Sigma / SPL / KQL) · ARM64 lab documentation | 🟢 Active |
 | 📺 | [Granger Security — YouTube](https://github.com/Granger0007/granger-security-youtube) | CVE research · Video scripts · Threat intelligence writeups | 🟢 Active |
-| 🛡️ | [OZONE Shield](https://github.com/Granger0007/ozone-shield) | Live AI scam detector — paste any message, get an instant verdict · Claude AI · Netlify serverless · Production secured | 🟢 Live |
+| 🛡️ | [OZONE Shield](https://github.com/Granger0007/ozone-shield) | Live AI scam detector — paste any message, get an instant verdict · Claude AI · Netlify serverless · Production secured | 🔴 Live |
 
 
 
