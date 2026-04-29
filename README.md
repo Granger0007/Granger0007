@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Bhargav%20Baranda&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20AI%20Security%20Builder&descSize=18&descAlignY=58&descColor=00d4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=220&section=header&text=Bhargav%20Baranda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Security%20Researcher&descSize=18&descAlignY=58&descColor=00d4ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;7+labs+documented.+89+videos+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Built+a+live+AI+security+product.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;9+labs+documented.+89+videos+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Academic+Centre+of+Excellence+in+Cyber+Security+Research.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-
+---
 
 ## About Me
 
@@ -28,26 +28,71 @@
 name:         Bhargav Baranda
 alias:        Granger
 location:     Egham, United Kingdom
-education:    MSc Information Security — Royal Holloway, University of London
+education:    MSc Information Security — Royal Holloway, University of London (2025)
+              Academic Centre of Excellence in Cyber Security Research (NCSC/GCHQ)
 credentials:  [ ISC² Certified in Cybersecurity, CompTIA Security+ (in progress) ]
 
 background:
   - 2 years behavioural analysis and anomaly detection — TTEC
   - 200+ confirmed incident escalations, documented and closed
-  - High-volume fraud pattern recognition and case management
+  - High-volume fraud pattern recognition across financial services environments
 
 current_focus:
   - SOC operations — alert triage, threat hunting, detection engineering
   - Splunk SPL + Microsoft Sentinel KQL + Sigma rule development
   - MITRE ATT&CK at sub-technique level across all investigations
   - ARM64 home lab — purpose-built, fully documented, publicly available
-  - OZONE Security — building AI-powered consumer threat protection tools
+
+philosophy:   "I don't study security from the outside.
+               I build labs, break things, document everything,
+               and publish the evidence. Every commit is a rep."
 
 seeking:      SOC Analyst roles across the UK market
 available:    Immediately
 ```
 
+> I completed my MSc at Royal Holloway — one of only a handful of universities in the UK formally recognised as an Academic Centre of Excellence in Cyber Security Research by NCSC and GCHQ. That connection between academic knowledge and national security practice isn't theoretical there. It's built into the institution. It shaped how I think about this field.
 
+---
+
+## SOC Lab Programme — 9 of 76 Labs Complete
+
+> Every lab produces a **Detection Triad** (Sigma + SPL + KQL), a full incident report, a GitHub writeup, and a pre-built STAR interview answer. Nothing in isolation.
+
+| # | Lab | Tools | MITRE ATT&CK | Status |
+|:-:|---|---|---|:---:|
+| 001 | OSI Model & Phishing Analysis | Wireshark, tcpdump | T1566.001 Spearphishing | ✅ |
+| 002 | Wireshark TCP Handshake Capture | Wireshark 4.6.x, curl | T1040 Network Sniffing | ✅ |
+| 003 | Subnetting Without a Calculator | ipcalc, mental arithmetic | Network architecture | ✅ |
+| 004 | DNS Enumeration with dig | dig, nslookup, Team Cymru ASN | T1590.002 DNS · T1498.002 | ✅ |
+| 005 | HTTP/HTTPS & TLS Handshake | Wireshark, curl | T1040 · T1557.002 AiTM | ✅ |
+| 006 | Ports & Protocols — Top 20 Cold | Knowledge-based reference | T1046 Network Scanning | ✅ |
+| 007 | Firewalls, ACLs & DMZ Architecture | iptables, network diagrams | T1190 Exploit Public App | ✅ |
+| 008 | Nmap Port Scanning | Nmap 7.99, Wireshark | T1046 Network Discovery | ✅ |
+| 009 | Wireshark Deep Dive — Full PCAP Analysis | tshark 4.6.x, Wireshark | T1040 · T1557 · T1071 | ✅ |
+| 010 | Log Analysis Fundamentals | syslog, auth.log, Event Viewer | T1078 · T1110 | 🔄 |
+
+**Current tier:** Tier 1 — Foundations (Security+ SY0-701 aligned)
+**Full roadmap:** 76 labs across 6 tiers → [View the complete programme](https://github.com/Granger0007/Bhargav-Baranda-Portfolio)
+
+---
+
+## MITRE ATT&CK Coverage
+
+```
+Reconnaissance   ████████░░  T1590 · T1046 · T1498
+Initial Access   ████░░░░░░  T1566.001 · T1190
+Execution        ██░░░░░░░░  T1204
+Defence Evasion  ████░░░░░░  T1036 · T1071
+Credential Acc.  ████░░░░░░  T1110 · T1040 · T1557
+Discovery        ██████░░░░  T1046 · T1590 · T1018
+C2               ████░░░░░░  T1071.001 · T1071.004
+Exfiltration     ██░░░░░░░░  T1041 · T1048
+```
+
+Coverage expands with every lab. Full technique list in the portfolio repo.
+
+---
 
 ## Home Lab
 
@@ -55,17 +100,19 @@ available:    Immediately
 > Every workaround is documented and published — reproducible by any analyst on Apple Silicon.
 
 ```
-MacBook Pro — Apple Silicon (ARM64)
-└── VirtualBox
+MacBook Pro — Apple Silicon M-series (ARM64)
+└── UTM Virtualisation
     └── Kali Linux ARM64
         ├── SIEM            →  Splunk (Docker/containerised)  +  ELK Stack 8.x
         ├── IDS / EDR       →  Suricata 7.x  +  Wazuh 4.x
-        ├── Analysis        →  Wireshark, tcpdump, Nmap, Volatility
-        ├── Detection Eng   →  Sigma, SPL, KQL
+        ├── Network         →  Wireshark 4.6.x · tcpdump · Nmap 7.99
+        ├── Forensics       →  Volatility 3 · tshark · NetworkMiner
+        ├── Detection Eng   →  Sigma · SPL · KQL
+        ├── Offensive       →  Burp Suite · apktool · jadx · ADB
         └── Infrastructure  →  Docker containers — £0 cloud spend
 ```
 
-
+---
 
 ## What I Build
 
@@ -73,11 +120,11 @@ Everything I work on is documented and published. No private repos, no course ce
 
 | | Repository | What's Inside | Status |
 |:-:|---|---|:---:|
-| 🔐 | [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | 7 labs · Incident investigations · Detection rules (Sigma / SPL / KQL) · ARM64 lab documentation | 🟢 Active |
+| 🔐 | [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | 9 labs · Incident investigations · Detection rules (Sigma / SPL / KQL) · ARM64 lab documentation | 🟢 Active |
 | 📺 | [Granger Security — YouTube](https://github.com/Granger0007/granger-security-youtube) | CVE research · Video scripts · Threat intelligence writeups | 🟢 Active |
 | 🛡️ | [OZONE Shield](https://github.com/Granger0007/ozone-shield) | Live AI scam detector — paste any message, get an instant verdict · Claude AI · Netlify serverless · Production secured | 🔴 Live |
 
-
+---
 
 ## OZONE Shield — Live Product
 
@@ -87,25 +134,26 @@ OZONE Shield solves this: paste any suspicious email, SMS, WhatsApp, or letter a
 
 No account. No download. Works on any device.
 
-[![Try OZONE Shield](https://img.shields.io/badge/▶_Try_It-ozone--shield.netlify.app-00d4ff?style=for-the-badge)](https://ozone-shield.netlify.app)
+[![Try OZONE Shield](https://img.shields.io/badge/▶_Try_It_Now-ozone--shield.netlify.app-00d4ff?style=for-the-badge)](https://ozone-shield.netlify.app)
 
 **Under the hood:** Claude AI (Anthropic API) · Netlify serverless functions · Rate limiting · CORS · CSP headers · API key isolation · Input sanitisation · Production-grade from day one.
 
-
+---
 
 ## Technical Skills
 
 | Domain | Tools & Techniques |
 |---|---|
-| **SIEM Operations** | Splunk SPL — search, stats, eval, rex, timechart · ELK Stack 8.x · Correlation searches |
-| **Detection Engineering** | Sigma · Splunk SPL · Microsoft Sentinel KQL · False positive tuning · Evasion gap analysis |
-| **Threat Intelligence** | MITRE ATT&CK (sub-technique) · CISA KEV · NCSC advisories · IOC enrichment (GreyNoise, OTX) |
-| **Incident Response** | Timeline reconstruction · Root cause analysis · GDPR Article 33 / ICO 72hr assessment |
-| **Network Analysis** | Wireshark · tcpdump · Suricata IDS · TCP/IP · DNS enumeration · Packet analysis |
-| **Product Development** | Anthropic API · Claude AI · Netlify serverless · Node.js · Security hardening · System prompt engineering |
-| **Frameworks** | MITRE ATT&CK · NIST CSF · Cyber Kill Chain |
+| **SIEM Operations** | Splunk SPL — search, stats, eval, rex, timechart · Microsoft Sentinel KQL · ELK Stack 8.x · Log correlation |
+| **Detection Engineering** | Sigma rules · Splunk SPL · KQL · False positive tuning · Alert fatigue reduction · Evasion gap analysis |
+| **Network Analysis** | Wireshark · tshark · tcpdump · Suricata IDS · TCP/IP · DNS enumeration · Packet forensics |
+| **Threat Intelligence** | MITRE ATT&CK (sub-technique) · CISA KEV · NCSC advisories · IOC enrichment (VirusTotal, OTX, AbuseIPDB) |
+| **Incident Response** | NIST SP 800-61 lifecycle · Timeline reconstruction · Root cause analysis · GDPR Article 33 / ICO 72hr |
+| **Offensive Tools** | Nmap · Burp Suite · apktool · jadx · ADB · OWASP Top 10 / Mobile Top 10 |
+| **Frameworks** | MITRE ATT&CK · NIST CSF · Cyber Kill Chain · PICERL · ISO 27001 |
+| **Scripting** | Python · Bash · SPL · KQL · Sigma |
 
-
+---
 
 ## Granger Security — YouTube
 
@@ -115,22 +163,25 @@ No account. No download. Works on any device.
 
 | Pillar | Content |
 |---|---|
-| 🔴 CVE Analysis | Breaking vulnerabilities — CVSS, affected versions, patch status, detection |
-| 🟡 Threat Intel Briefs | Weekly cybersecurity news framed for the SOC analyst |
+| 🔴 CVE Analysis | Breaking vulnerabilities — CVSS, affected versions, patch status, detection rules |
+| 🟡 Threat Intel Briefs | Cybersecurity news framed for the SOC analyst |
 | 🔵 Lab Walkthroughs | Real detections, real tool output, real mistakes — no polish |
 | ⚪ Security+ Explained | Exam concepts anchored to real SOC scenarios |
 
-
+---
 
 ## 2026 Roadmap
 
 ```
-Q1 2026
- ├── ✅  MSc Information Security — Royal Holloway
+2025
+ ├── ✅  MSc Information Security — Royal Holloway, University of London
  ├── ✅  ISC² Certified in Cybersecurity (CC)
- ├── ✅  OZONE Shield — live AI scam detector (ozone-shield.netlify.app)
- ├── 🔄  CompTIA Security+ SY0-701
- └── 🔄  Security operations portfolio — active build
+ └── ✅  OZONE Shield — live AI scam detector (ozone-shield.netlify.app)
+
+Q1–Q2 2026
+ ├── 🔄  CompTIA Security+ SY0-701          ← active
+ ├── 🔄  SOC Lab Programme — 9/76 complete  ← active
+ └── 🔄  UK SOC Analyst job applications    ← active
 
 Q2 2026
  ├── 🎯  Security+ passed
@@ -139,11 +190,30 @@ Q2 2026
 
 Q3 2026
  ├── 🎯  Splunk Power User
- ├── 🎯  Open-source Sigma contributions
- └── 🎯  OZONE Security — expand beyond scam detection
+ ├── 🎯  BTL1 / eJPT
+ └── 🎯  Open-source Sigma contributions
+
+2027
+ ├── 🎯  CompTIA CySA+
+ ├── 🎯  Cloud Security — AZ-500 / AWS Security Specialty
+ └── 🎯  Detection Engineering specialism
 ```
 
+---
 
+## GitHub Stats
+
+<div align="center">
+
+![Granger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Granger0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Granger0007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Granger0007&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
+
+</div>
+
+---
 
 ## Let's Connect
 
@@ -161,10 +231,10 @@ If you're hiring, collaborating, or want to talk threat detection — reach out.
 
 </div>
 
-
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1f2e,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1f2e,100:0d1117&height=120&section=footer"/>
 
 </div>
