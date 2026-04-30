@@ -70,7 +70,7 @@ available:    Immediately
 | 007 | Firewalls, ACLs & DMZ Architecture | iptables, network diagrams | T1190 Exploit Public App | ✅ |
 | 008 | Nmap Port Scanning | Nmap 7.99, Wireshark | T1046 Network Discovery | ✅ |
 | 009 | Wireshark Deep Dive — Full PCAP Analysis | tshark 4.6.x, Wireshark | T1040 · T1557 · T1071 | ✅ |
-| 010 | Log Analysis Fundamentals | syslog, auth.log, Event Viewer | T1078 · T1110 | 🔄 |
+| 010 | Log Analysis Fundamentals | syslog, auth.log, Event Viewer | T1078 · T1110 | ✅ |
 
 **Current tier:** Tier 1 — Foundations (Security+ SY0-701 aligned)
 **Full roadmap:** 76 labs across 6 tiers → [View the complete programme](https://github.com/Granger0007/Bhargav-Baranda-Portfolio)
