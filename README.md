@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=220&section=header&text=Bhargav%20Baranda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Security%20Researcher&descSize=18&descAlignY=58&descColor=00d4ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;9+labs+documented.+89+videos+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Academic+Centre+of+Excellence+in+Cyber+Security+Research.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;10+labs+documented.+89+videos+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Academic+Centre+of+Excellence+in+Cyber+Security+Research.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
 
 <br/>
 
 [![ISC²](https://img.shields.io/badge/ISC²-Certified_in_Cybersecurity-00599C?style=for-the-badge&logoColor=white)](https://www.isc2.org/certifications/cc)
-[![Security+](https://img.shields.io/badge/CompTIA-Security+_In_Progress-EE3124?style=for-the-badge)](https://www.comptia.org/certifications/security)
+[![Security+](https://img.shields.io/badge/CompTIA-Security+_Certified-EE3124?style=for-the-badge)](https://www.comptia.org/certifications/security)
 [![Royal Holloway](https://img.shields.io/badge/Royal_Holloway-MSc_Information_Security-003087?style=for-the-badge)](https://www.royalholloway.ac.uk)
 
 <br/>
@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-baranda)
 [![YouTube](https://img.shields.io/badge/YouTube-Granger_Security-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Granger-Security)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Security_Operations-2D9CDB?style=flat-square&logo=github&logoColor=white)](https://github.com/Granger0007/Bhargav-Baranda-Portfolio)
-[![OZONE Shield](https://img.shields.io/badge/Product-OZONE_Shield_🛡️-00d4ff?style=flat-square)](https://ozone-shield.netlify.app)
+[![OZONE Shield](https://img.shields.io/badge/Product-OZONE_Shield_🛡️-00d4ff?style=flat-square)](https://ozone-shield.bbaranda055.workers.dev)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bbaranda055@gmail.com)
 
 </div>
@@ -30,12 +30,12 @@ alias:        Granger
 location:     Egham, United Kingdom
 education:    MSc Information Security — Royal Holloway, University of London (2025)
               Academic Centre of Excellence in Cyber Security Research (NCSC/GCHQ)
-credentials:  [ ISC² Certified in Cybersecurity, CompTIA Security+ (in progress) ]
+credentials:  [ ISC² Certified in Cybersecurity, CompTIA Security+ (SY0-701, certified Aug 2026) ]
 
 background:
-  - 2 years behavioural analysis and anomaly detection — TTEC
-  - 200+ confirmed incident escalations, documented and closed
-  - High-volume fraud pattern recognition across financial services environments
+  - Behavioural analysis and fraud detection — TTEC, Fraud Prevention & Detection Representative
+  - Account takeover, payment fraud, and identity fraud pattern recognition
+  - High-volume alert triage across financial services environments (Airbnb, eBay platforms)
 
 current_focus:
   - SOC operations — alert triage, threat hunting, detection engineering
@@ -55,7 +55,7 @@ available:    Immediately
 
 ---
 
-## SOC Lab Programme — 9 of 76 Labs Complete
+## SOC Lab Programme — 10 Labs Complete
 
 > Every lab produces a **Detection Triad** (Sigma + SPL + KQL), a full incident report, a GitHub writeup, and a pre-built STAR interview answer. Nothing in isolation.
 
@@ -72,8 +72,7 @@ available:    Immediately
 | 009 | Wireshark Deep Dive — Full PCAP Analysis | tshark 4.6.x, Wireshark | T1040 · T1557 · T1071 | ✅ |
 | 010 | Log Analysis Fundamentals | syslog, auth.log, Event Viewer | T1078 · T1110 | ✅ |
 
-**Current tier:** Tier 1 — Foundations (Security+ SY0-701 aligned)
-**Full roadmap:** 76 labs across 6 tiers → [View the complete programme](https://github.com/Granger0007/Bhargav-Baranda-Portfolio)
+**Full lab writeups:** [View the complete programme](https://github.com/Granger0007/Bhargav-Baranda-Portfolio)
 
 ---
 
@@ -120,9 +119,9 @@ Everything I work on is documented and published. No private repos, no course ce
 
 | | Repository | What's Inside | Status |
 |:-:|---|---|:---:|
-| 🔐 | [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | 9 labs · Incident investigations · Detection rules (Sigma / SPL / KQL) · ARM64 lab documentation | 🟢 Active |
+| 🔐 | [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | 10 labs · Incident investigations · Detection rules (Sigma / SPL / KQL) · ARM64 lab documentation | 🟢 Active |
 | 📺 | [Granger Security — YouTube](https://github.com/Granger0007/granger-security-youtube) | CVE research · Video scripts · Threat intelligence writeups | 🟢 Active |
-| 🛡️ | [OZONE Shield](https://github.com/Granger0007/ozone-shield) | Live AI scam detector — paste any message, get an instant verdict · Claude AI · Netlify serverless · Production secured | 🔴 Live |
+| 🛡️ | [OZONE Shield](https://github.com/Granger0007/ozone-shield) | Live AI scam detector — paste any message, get an instant verdict · Claude AI · Cloudflare Workers · Production secured | 🔴 Live |
 
 ---
 
@@ -134,9 +133,9 @@ OZONE Shield solves this: paste any suspicious email, SMS, WhatsApp, or letter a
 
 No account. No download. Works on any device.
 
-[![Try OZONE Shield](https://img.shields.io/badge/▶_Try_It_Now-ozone--shield.netlify.app-00d4ff?style=for-the-badge)](https://ozone-shield.netlify.app)
+[![Try OZONE Shield](https://img.shields.io/badge/▶_Try_It_Now-ozone--shield.bbaranda055.workers.dev-00d4ff?style=for-the-badge)](https://ozone-shield.bbaranda055.workers.dev)
 
-**Under the hood:** Claude AI (Anthropic API) · Netlify serverless functions · Rate limiting · CORS · CSP headers · API key isolation · Input sanitisation · Production-grade from day one.
+**Under the hood:** Claude AI (via Cloudflare AI Gateway) · Cloudflare Workers · KV-persistent rate limiting · CORS · CSP headers · API key isolation · Input sanitisation · Production-grade from day one.
 
 ---
 
@@ -175,20 +174,19 @@ No account. No download. Works on any device.
 ```
 2025
  ├── ✅  MSc Information Security — Royal Holloway, University of London
- ├── ✅  ISC² Certified in Cybersecurity (CC)
- └── ✅  OZONE Shield — live AI scam detector (ozone-shield.netlify.app)
+ └── ✅  ISC² Certified in Cybersecurity (CC)
 
 Q1–Q2 2026
- ├── 🔄  CompTIA Security+ SY0-701          ← active
- ├── 🔄  SOC Lab Programme — 9/76 complete  ← active
- └── 🔄  UK SOC Analyst job applications    ← active
-
-Q2 2026
- ├── 🎯  Security+ passed
- ├── 🎯  Splunk Core Certified User
- └── 🎯  SOC Analyst role — UK market
+ ├── ✅  SOC Lab Programme — Labs 001–010 complete
+ ├── ✅  OZONE Shield — live AI scam detector (ozone-shield.bbaranda055.workers.dev)
+ └── 🔄  UK SOC Analyst job applications          ← active
 
 Q3 2026
+ ├── ✅  CompTIA Security+ SY0-701 — passed, first attempt
+ ├── 🔄  SOC Analyst role — UK market              ← active
+ └── 🎯  Splunk Core Certified User
+
+Q4 2026
  ├── 🎯  Splunk Power User
  ├── 🎯  BTL1 / eJPT
  └── 🎯  Open-source Sigma contributions
@@ -226,7 +224,7 @@ If you're hiring, collaborating, or want to talk threat detection — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-baranda)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Granger-Security)
-[![OZONE Shield](https://img.shields.io/badge/Product-OZONE_Shield-00d4ff?style=for-the-badge)](https://ozone-shield.netlify.app)
+[![OZONE Shield](https://img.shields.io/badge/Product-OZONE_Shield-00d4ff?style=for-the-badge)](https://ozone-shield.bbaranda055.workers.dev)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbaranda055@gmail.com)
 
 </div>
