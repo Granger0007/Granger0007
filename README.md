@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=220&section=header&text=Bhargav%20Baranda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Security%20Researcher&descSize=18&descAlignY=58&descColor=00d4ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;10+labs+documented.+89+videos+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Academic+Centre+of+Excellence+in+Cyber+Security+Research.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+SOC+capabilities+in+public.;MITRE+ATT%26CK+%7C+Splunk+%7C+Sigma+%7C+KQL;10+labs+documented.+230%2B+videos+%26+Shorts+published.;MSc+Information+Security+%E2%80%94+Royal+Holloway.;Academic+Centre+of+Excellence+in+Cyber+Security+Research.;Every+commit+is+a+rep.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -120,14 +120,14 @@ Everything I work on is documented and published. No private repos, no course ce
 | | Repository | What's Inside | Status |
 |:-:|---|---|:---:|
 | 🔐 | [Security Operations Portfolio](https://github.com/Granger0007/Bhargav-Baranda-Portfolio) | 10 labs · Incident investigations · Detection rules (Sigma / SPL / KQL) · ARM64 lab documentation | 🟢 Active |
-| 📺 | [Granger Security — YouTube](https://github.com/Granger0007/granger-security-youtube) | CVE research · Video scripts · Threat intelligence writeups | 🟢 Active |
+| 📺 | [Granger Security — YouTube](https://github.com/Granger0007/granger-security-youtube) | Daily AI Security Shorts · CVE research archive · Threat intelligence writeups | 🟢 Active |
 | 🛡️ | [OZONE Shield](https://github.com/Granger0007/ozone-shield) | Live AI scam detector — paste any message, get an instant verdict · Claude AI · Cloudflare Workers · Production secured | 🔴 Live |
 
 ---
 
 ## OZONE Shield — Live Product
 
-> Over 3.4 billion phishing messages are sent every day. Most people have no fast, simple way to check if a message is genuine.
+> Over 3.4 billion phishing emails are sent every day, and SMS phishing (smishing) accounts for 35% of all phishing attacks on top of that. Most people have no fast, simple way to check if a message, on any channel, is genuine.
 
 OZONE Shield solves this: paste any suspicious email, SMS, WhatsApp, or letter and receive an instant AI-powered verdict — **SAFE**, **SUSPICIOUS**, or **SCAM** — with a confidence score, specific reasons tied to the actual message, and a plain-English action guide.
 
@@ -156,14 +156,14 @@ No account. No download. Works on any device.
 
 ## Granger Security — YouTube
 
-89 videos. CVE breakdowns, threat intelligence briefs, SOC lab walkthroughs, and Security+ content — made for aspiring analysts and career changers breaking into the industry.
+230+ videos and Shorts since 2022. Currently focused on a daily **AI Security Shorts** series — 15-30 second explainers on core security concepts — alongside an archive of longer CVE breakdowns and Security+ content.
 
-[![Watch](https://img.shields.io/badge/▶_Watch-Granger_Security_(89_videos)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Granger-Security)
+[![Watch](https://img.shields.io/badge/▶_Watch-Granger_Security-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Granger-Security)
 
 | Pillar | Content |
 |---|---|
-| 🔴 CVE Analysis | Breaking vulnerabilities — CVSS, affected versions, patch status, detection rules |
-| 🟡 Threat Intel Briefs | Cybersecurity news framed for the SOC analyst |
+| 🟢 AI Security Shorts | Daily 15-30s definitional explainers — SIEM, SOC, phishing, ransomware, and more |
+| 🔴 CVE Analysis (archive) | Vulnerability breakdowns — CVSS, affected versions, patch status, detection opportunity |
 | 🔵 Lab Walkthroughs | Real detections, real tool output, real mistakes — no polish |
 | ⚪ Security+ Explained | Exam concepts anchored to real SOC scenarios |
 
@@ -202,10 +202,6 @@ Q4 2026
 ## GitHub Stats
 
 <div align="center">
-
-![Granger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Granger0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Granger0007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Granger0007&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
