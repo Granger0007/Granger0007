@@ -38,7 +38,7 @@ background:
   - Compliance documentation to PCI-DSS, GDPR and SOX
 
 current_focus:
-  - Wazuh and Elastic SIEM, running on a cloud lab server
+  - Wazuh and Elastic SIEM, built on cloud lab servers
   - Writing detection rules in Sigma, SPL and KQL, mapped to MITRE ATT&CK
   - Turning every lab into a written investigation
 
@@ -108,7 +108,7 @@ Coverage grows with every lab. The full list, with the procedure observed for ea
 ## Home Lab
 
 > Enterprise SOC tools assume x86_64. My machine is an Apple Silicon Mac (ARM64) with 8 GB of RAM.
-> So light work runs locally and the SIEMs run in the cloud. Every workaround is documented, so anyone on Apple Silicon can reproduce it.
+> So light work runs locally, and anything SIEM-sized goes on a cloud server. Every workaround is documented, so anyone on Apple Silicon can reproduce it.
 
 ```
 MacBook Pro — Apple Silicon M-series (ARM64, 8 GB)
@@ -121,12 +121,12 @@ MacBook Pro — Apple Silicon M-series (ARM64, 8 GB)
         ├── Detection Eng   →  Sigma · SPL · KQL
         └── Offensive       →  Burp Suite · apktool · jadx · ADB
 
-Vultr cloud server — 2 vCPU / 8 GB / London
-├── Wazuh 4.x           →  manager, indexer, dashboard + agents
-└── Elastic Stack       →  Elasticsearch · Kibana · Sysmon  (Elastic challenge, in progress)
+Vultr cloud servers — 2 vCPU / 8 GB / London, one per project
+├── Wazuh 4.x           →  Wazuh challenge, Sept 2026: server + Ubuntu agent  (deleted after submission)
+└── Elastic Stack       →  Elastic challenge: Elasticsearch · Kibana · Sysmon  (in progress)
 ```
 
-Why the cloud: a full Wazuh or Elastic deployment needs about 8 GB on its own. That's all the memory the Mac has, so those run on a small cloud server that works the same wherever I am.
+Why the cloud: a full Wazuh or Elastic deployment needs about 8 GB on its own — all the memory the Mac has. So each one gets its own small cloud server, and I delete the server once the project is finished, so I only pay while it's in use.
 
 ---
 
