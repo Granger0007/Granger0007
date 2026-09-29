@@ -78,7 +78,7 @@ Each lab is written up in the portfolio with its MITRE ATT&CK mapping. Seven of 
 
 | Project | What it is | Status |
 |---|---|:---:|
-| **MYDFIR Wazuh SOC Analyst Challenge** | Deployed Wazuh on a cloud server, wrote custom detection rules and an investigation report | ✅ Completed Sept 2026 · write-up being published |
+| **[MYDFIR Wazuh SOC Analyst Challenge](https://github.com/Granger0007/Bhargav-Baranda-Portfolio/tree/main/projects/wazuh-soc-lab)** | Built a Wazuh SIEM on a cloud server with Windows and Linux agents, file integrity monitoring, two custom detections and an automatic SSH block — which caught real attackers from the internet | ✅ Completed Sept 2026 · [read the write-up](https://github.com/Granger0007/Bhargav-Baranda-Portfolio/tree/main/projects/wazuh-soc-lab) |
 | **MYDFIR Elastic SOC Challenge** | ELK Stack, Sysmon and Mythic C2 — building, attacking and detecting, one step a day | 🔄 In progress |
 
 ---
