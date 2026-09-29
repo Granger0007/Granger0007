@@ -90,7 +90,7 @@ Techniques covered across the labs so far, grouped by tactic:
 | Tactic | Techniques |
 |---|---|
 | Reconnaissance | T1590.002 |
-| Resource Development | T1583.004 |
+| Resource Development | T1584.004 |
 | Initial Access | T1566.001 · T1190 · T1078 |
 | Execution | T1204.002 · T1059.005 |
 | Defence Evasion | T1027 · T1036 |
